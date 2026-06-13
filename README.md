@@ -8,7 +8,7 @@
 ## 🔬 Divisão de Projetos e Linhas de Pesquisa
 
 ### 1. Pesquisa Científica & Inovação (R&D)
-*   **[Projeto Brezobomba](https://github.com)**
+*   **[Projeto Brezobomba]([https://github.com](https://github.com/fabiobrezolin/brezobomba))**
     *   *Descrição:* Ecossistema de IoT para monitoramento ambiental (Raspberry Pi/Linux/Android).
 *   **[Security-of-AI](https://github.com)** 
     *   *Descrição:* Governança e segurança para LLMs (AI-SPM).
