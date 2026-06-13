@@ -10,19 +10,19 @@
 ### 1. Pesquisa Científica & Inovação (R&D)
 *   **[Projeto Brezobomba](https://github.com)**
     *   *Descrição:* Ecossistema de IoT para monitoramento ambiental (Raspberry Pi/Linux/Android).
-*   **[Security-of-AI](https://github.com)** *(Sugerido)*
+*   **[Security-of-AI](https://github.com)** 
     *   *Descrição:* Governança e segurança para LLMs (AI-SPM).
-*   **[Post-Quantum-Crypto](https://github.com)** *(Sugerido)*
+*   **[Post-Quantum-Crypto](https://github.com)** 
     *   *Descrição:* Estudos de algoritmos resistentes a computação quântica.
 
 ### 2. Arquitetura de Segurança & Labs
-*   **[Cloud-Security-Labs](https://github.com)** *(Sugerido)*
+*   **[Cloud-Security-Labs](https://github.com)** 
     *   *Descrição:* Cenários Zero Trust, CNAPP/CSPM.
 *   **[Database-Security](https://github.com)**
     *   *Descrição:* Exercises in database security and hardening.
 
 ### 3. Docência & Metacognição
-*   **[Emerging-Themes-Cybersecurity](https://github.com)** *(Sugerido)*
+*   **[Emerging-Themes-Cybersecurity](https://github.com)** 
     *   *Descrição:* Metacognição aplicada ao ensino de Cibersegurança.
 
 ---
